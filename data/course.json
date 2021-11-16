@@ -1,0 +1,37 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Humanities",
+      "Philosophy",
+      "Epistemology"
+    ],
+    [
+      "Humanities",
+      "Philosophy",
+      "Metaphysics"
+    ],
+    [
+      "Science",
+      "Cognitive Science"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "e294a467-e0e0-da23-240a-0e4a2708cb40",
+      "2581e92b-4c42-9c65-dc0f-b1bd4dd81cf0"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Topics in Philosophy of Mind: Perceptual Experience",
+  "course_description": "This course is a survey of recent philosophy of perception. The main topics discussed are the following: the transparency of perceptual experience, disjunctivism, the content of perceptual experience, perceptual consciousness, thought ownership and thought disorders (focussing on schizophrenia), introspection, and the perception of sound. Questions raised by these topics include \"In what way is imagination distinct from perception?\", \"Is there a perceptual relation?\", \"What is the view that perceptual experiences have representational content?\", \"In what way is introspection distinct from perception?\", \"What does the phenomenon of 'thought insertion' show about the ownership of thoughts?\", and \"What is a sound?\". We explore these topics through reading, writing, and presentations by the instructors and guests.\n",
+  "department_numbers": [
+    "24"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "24.500",
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
